@@ -17,6 +17,21 @@
     <None Update="raylib.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="topdowntanks\PNG\Bullets\bulletYellow_outline.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="topdowntanks\PNG\Obstacles\barrelGrey_side.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="topdowntanks\PNG\Tanks\barrelBeige_outline.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+    <None Update="topdowntanks\PNG\Tanks\barrelBlue.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="topdowntanks\PNG\Tanks\tankBlue_outline.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
